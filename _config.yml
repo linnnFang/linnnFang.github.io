@@ -22,7 +22,7 @@ minimal_mistakes_skin    : "air"
 # ============================================================
 author:
   name     : "Fang Lin"
-  avatar   : "/assets/images/bio-photo.JPG"
+  avatar   : "/assets/images/bio-photo.jpg"
   bio      : "Quantitative Research · Data Science · Optimization"
   location : ""
   links:
