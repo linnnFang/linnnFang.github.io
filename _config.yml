@@ -106,6 +106,7 @@ defaults:
       related: true
       toc: true
       toc_sticky: true
+      mathjax: true
   - scope:
       path: "_pages"
       type: pages
@@ -127,6 +128,7 @@ defaults:
       author_profile: true
       toc: true
       toc_sticky: true
+      mathjax: true
 
 category_archive:
   type: liquid
