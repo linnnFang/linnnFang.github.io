@@ -15,7 +15,7 @@ repository               : "linnnFang/linnnFang.github.io"
 # Theme
 # ============================================================
 remote_theme             : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "dark"
+minimal_mistakes_skin    : "air"
 
 # ============================================================
 # Site Author

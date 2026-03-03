@@ -1,3 +1,9 @@
+---
+title: "ODE Notes (Undergraduate)"
+excerpt: "Ordinary Differential Equations notes."
+toc: true
+---
+
 # MATH 119B
 
 [solution to textbook 119.pdf](MATH%20119B/solution_to_textbook_119.pdf)
