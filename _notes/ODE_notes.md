@@ -33,11 +33,11 @@ the **mapping** $\phi_t = e^{At}$ properties of the flow for $all \space x \in \
 - the `property 1` follows form the definiyion of $e^{At}$
 - `property 2` follows from proposition 2 in section 1.3 of C1
     
-    ![Screenshot 2025-02-09 at 2.07.40 PM.png](MATH%20119B/Screenshot_2025-02-09_at_2.07.40_PM.png)
+    ![Proposition 2](/assets/images/notes/ode/Screenshot_2025-02-09_at_2_07_40_PM.png)
     
 - `property 3` follows form Corollary 2 in section 1.3 of C1
     
-    ![Screenshot 2025-02-09 at 2.08.02 PM.png](MATH%20119B/Screenshot_2025-02-09_at_2.08.02_PM.png)
+    ![Corollary 2](assets/images/notes/ode/Screenshot_2025-02-09_at_2.08.02_PM.png)
     
 
 # Chapter 2 Nonlinear systems
@@ -83,7 +83,7 @@ $$
 
 The linear transformation $Df(x_0)$is called the ***derivative** of $f$* *at* Xo.
 
-![Screenshot 2025-02-07 at 12.08.56 PM.png](MATH%20119B/Screenshot_2025-02-07_at_12.08.56_PM.png)
+![Theorem 1](assets/images/notes/ode/Screenshot_2025-02-07_at_12.08.56_PM.png)
 
 **Definition 2:** Soppose $V_1$ and $V_2$ are two norm linear spaces with respective norms $||.||_1$ and $||.||_2$ Then, $F: V_1 \to V_2$ is continuous at $x_0 \in V_1$ if for all $\epsilon >0$, tehre exists a $\delta>0$ such that $x \in V_1$ and $||x-x_0||_1<\delta$ implies that 
 
@@ -105,7 +105,7 @@ $$
 
 **Definition 3**: Suppose that $f: E\to \mathbb{R^n}$ is differentiable on E. Then $f \in C^1(E)$X if the derivative $Df: E \to L(\mathbb{R^n})$ is continuous on E. 
 
-![Screenshot 2025-02-07 at 1.25.58 PM.png](MATH%20119B/Screenshot_2025-02-07_at_1.25.58_PM.png)
+![Theorem 2](assets/images/notes/ode/Screenshot_2025-02-07_at_1.25.58_PM.png)
 
 **Remark:** 
 
@@ -368,7 +368,7 @@ $$
 
 **Theorem 1(Global smoothness of the solution):** Let $E$ be an open subset of   $\mathbb{R^n}$ and let $f\in C^1(E) .$ Then $\Omega$   *is an open subset of $\mathbb{R} \times E$ and the solution $\phi \in C^1(\Omega)$*
 
-![Screenshot 2025-02-09 at 4.12.01 PM.png](MATH%20119B/Screenshot_2025-02-09_at_4.12.01_PM.png)
+![concept](assets/images/notes/ode/Screenshot_2025-02-09_at_4.12.01_PM.png)
 
 - NTS:  $\Omega$ is an open subset and then for all $z\in\Omega, \exist \delta>0,\space N_{\delta}\subseteq\Omega$
 
@@ -480,7 +480,7 @@ $$
 
 is differnetiable (or of class $C^k$) and for all $x\in h_{\beta}(U_a \cap U_{\beta})$, the Jacobian determinant det $Dh(x) \neq 0$. The manifold M is said to be **analytic** if the maps $h = h_{\alpha} \circ h_{\beta}^{-1}$ are **analytic**
 
-![Screenshot 2025-02-13 at 2.30.38 AM.png](MATH%20119B/Screenshot_2025-02-13_at_2.30.38_AM.png)
+![Screenshot 2025-02-13 at 2.30.38 AM.png](assets/images/notes/ode/Screenshot_2025-02-13_at_2.30.38_AM.png)
 
 **Theorem(The Stable Manifold Theorem)**: Let $E$ be an open subset of $R^n$ containing the origin, let  $f \in C^1(E)$,a dn let $\phi_t$ be the flow of the non-linear system. Suppose that $f(0) = 0,$ and that **$Df(0)$** has $k$ eigenvalues with negative real part and $n-k$ eigenvalues with positive real part. Then there exists a  $k- dimensional$ differentiable  manifold S tangent to the stable subspace $E^S$ of the linear system(2) at 0 such that for all $t \geq 0, \phi_t(S) \subset S$ and for $all \space x_0 \in S$. 
 
@@ -625,7 +625,7 @@ A **structurally stable vector field** (or dynamical system) is one where **smal
 
 This concept was introduced by **Andronov and Pontryagin (1937)** and is fundamental in the study of dynamical systems.
 
-![Screenshot 2025-03-09 at 12.38.32 PM.png](MATH%20119B/Screenshot_2025-03-09_at_12.38.32_PM.png)
+![Screenshot 2025-03-09 at 12.38.32 PM.png](assets/images/notes/ode/Screenshot_2025-03-09_at_12.38.32_PM.png)
 
 $C^1$ norm: This norm measures the **magnitutes** of both $f(x)$ and its first derivative, ensuring that both the function value and its variation are considered when comparing two vector fields
 

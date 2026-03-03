@@ -5,12 +5,19 @@ layout: single
 author_profile: true
 ---
 
-Hi, I'm **Fang Lin**. I work at the intersection of quantitative research, data science, and optimization.
+Hi, I'm **Fang Lin** from Shenzhen, China. I’m currently MS student in Financial Mathematics at the University of Chicago. I recently graduated from UC Santa Barbara with a double major in Applied Mathematics and Data Science & Statistics.
+
+I’m skilled in mathematical modeling, statistical analysis, optimization, and financial theory. I’m particularly motivated by the power of data-driven insights to solve complex mathematical challenges.
+
+Currently, I’m exploring opportunities in Quantitative Research roles.
+
+If my qualifications sound like a fit for your team, I would love to connect.
+Feel free to reach out: linfang@uchicago.edu
 
 ## Research Interests
 
 - Portfolio optimization & risk management
-- Machine learning for financial applications
+- Machine learning 
 - Large-scale optimization methods
 - Statistical modeling & inference
 
